@@ -1,0 +1,28 @@
+#div1 {
+    width: 600px;
+    height: 100px;
+    background-color: red;
+}
+
+#subtab1, #subtab2, #subtab3, #subtab4 {
+    width: 500px;
+    height: 50px;
+    background-color: yellow;
+}
+
+#firsttabs {
+    display: none;
+}
+
+#div2 {
+    width: 600px;
+    height: 100px;
+    background-color: blue;
+}
+
+#stab1, #stab2, #stab3, #stab4 {
+    width: 500px;
+    height: 50px;
+    background-color: green;
+    display: none;
+}
