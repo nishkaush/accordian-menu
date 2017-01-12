@@ -17,3 +17,9 @@ Main challenges:
 
 
 Run a for loop and increase and decrease value of the counter to get the desired affect.
+
+
+
+(3) one last thing about CSS, the getElementsByClassName() command didn't work when i needed the subtabs to be displayed. So had to create a div to keep all the subtabs and then use the id of div to hide and reveal the tabs.
+
+Having same class name on all the subtabs isn't a great solution anyhow and takes more time.
